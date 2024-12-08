@@ -1,3 +1,5 @@
 a.out
 *.cmi
 *.cmo
+*.exe
+.vscode/
